@@ -5,7 +5,7 @@ import javax.xml.ws.Endpoint;
 
 @WebService
 public class CallService {
-	//aaa
+	
 	public String getWords(String str) {
 		return "aaa...";
 	}
